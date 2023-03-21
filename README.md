@@ -2,11 +2,11 @@
 Basic Travel agent website using HTML CSS JS
 
 <div align="center">
-  <h1>⌨️ Typeracer App - Based on <a href="https://monkeytype.com">Monkeytype</a></h1>
-  <p>Made using <a href="https://theodorusclarence.com">Theodorus Clarence</a>'s HTML , CSS , JS , jQuery <a href="https://github.com/theodorusclarence/ts-nextjs-tailwind-starter">starter pack</a>.</p>
+  <h1>⌨️   Booking app  </h1>
+  <p>Made using  HTML , CSS , JS , jQuery </p>
 </div>
 
-![Monkeytype Clone](https://github.com/Lakshya-GG/SunsetAdventures)
+![Sunset Adveentures](https://github.com/Lakshya-GG/SunsetAdventures)
 
 ## Getting Started
 
