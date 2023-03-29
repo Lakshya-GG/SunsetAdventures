@@ -6,7 +6,7 @@ Basic Travel agent website using HTML CSS JS
   <p>Made using  HTML , CSS , JS , jQuery </p>
 </div>
 
-![Sunset Adveentures](https://github.com/Lakshya-GG/SunsetAdventures)
+![Sunset Adventures](https://github.com/Lakshya-GG/SunsetAdventures)
 
 ## Getting Started
 
@@ -18,8 +18,6 @@ Go to your terminal and clone the project.
 git clone my-project
 ```
 
-
-```
 
 ### 2. Run the development server
 
